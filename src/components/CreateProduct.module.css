@@ -1,0 +1,18 @@
+.sCreateProduct{
+    width: 90%;
+    border: 1px solid gray;
+    padding:8px 16px 8px 16px;
+    margin-bottom: 8px;
+}
+
+.sCreate{
+    border: 1px solid black;
+    padding:8px 16px 8px 16px;
+    background-color: yellow;
+}
+.sCreate:hover{
+    border: 1px solid black;
+    padding:8px 16px 8px 16px;
+    background-color: yellow;
+    color: white;
+}

@@ -1,0 +1,30 @@
+img{
+    width: 16.666667%;
+}
+
+.sProduct{
+    border: 1px solid gray;
+    padding:8px 16px 8px 16px;
+    border-radius: 0.25rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.sShow{
+    border: 1px solid black;
+    padding:8px 16px 8px 16px;
+    background-color: yellow;
+}
+.sHide{
+    border: 1px solid black;
+    padding:8px 16px 8px 16px;
+    background-color: blue;
+}
+.font{
+    font-weight: bold;
+}
+
+/* className="border py-2 px-4 rounded flex flex-col items-center mb-2"
+className="py-2 px-4 border bg-yellow-400"  */
